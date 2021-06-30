@@ -1,0 +1,18 @@
+body{
+    display: flex;
+    justify-content: center;
+    min-height: 100vh;
+    align-items: center;
+}
+button{
+    padding: 0.5rem 0.5rem;
+    border: 2px ;
+    border-radius: 5px;
+    color: #ffff;
+    background-color: rgba(0,0,0,0.6);
+    font-size: 1.5rem;
+    cursor: pointer;
+}
+button:hover{
+    background-color: #001;
+}
